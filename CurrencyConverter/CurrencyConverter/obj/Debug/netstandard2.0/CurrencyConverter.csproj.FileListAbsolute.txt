@@ -1,0 +1,33 @@
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.deps.json
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.dll
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\20045409.ED\source\repos\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfo.cs
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.deps.json
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.dll
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfoInputs.cache
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfo.cs
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.dll
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\ref\CurrencyConverter.dll
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.pdb
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\ref\CurrencyConverter.dll
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.pdb
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\XamlC.stamp
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.dll
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\ref\CurrencyConverter.dll
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.deps.json
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.dll
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\ref\CurrencyConverter.dll
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\netstandard2.0\CurrencyConverter.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\netstandard2.0\XamlC.stamp

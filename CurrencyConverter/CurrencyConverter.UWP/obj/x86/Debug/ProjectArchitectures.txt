@@ -1,0 +1,1 @@
+E:\CurrencyConverter\CurrencyConverter\CurrencyConverter\CurrencyConverter.UWP\CurrencyConverter.UWP.csproj;x86
